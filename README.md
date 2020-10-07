@@ -1,5 +1,13 @@
-##### HUST_DataBase
+## HUST_DataBase
 
-Contents: codes and files of part2(covid19) and part3(courseproject) & report
+### 华中科技大学数据库
 
-Date: 2020-06-26
+**实验内容**
+
+lab2 "疫情乘坐列车"相关的关系数据库
+
+lab3 北京大兴国际机场机票预订管理系统(PyQt5)
+
+**日期**
+
+2020.6.26
